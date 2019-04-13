@@ -1,5 +1,3 @@
-package mihajlovic.jelena;
-
 import javax.swing.JOptionPane;
 
 public class MadlibsOfTheAmazon {
@@ -21,8 +19,8 @@ public class MadlibsOfTheAmazon {
 		String s = "Piranhas are more " + adj
 				+ " during the day, so cross the river at night.\nPiranhas are attracted to fresh " + liquid
 				+ " and will most likely take a bite out of your " + body + " if you " + verb
-				+ ".\nWhatever you do, if you have an open wound, try to find another way to get back to the " + place
-				+ ". \n\nGood luck!";
+				+ ".\nWhatever you do, if you have an open wound, try to find another way to get back to the " 
+			        + place + ". \n\nGood luck!";
 
 		JOptionPane.showMessageDialog(null, s);
 	}
