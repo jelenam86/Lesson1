@@ -1,5 +1,4 @@
 import javax.swing.JOptionPane;
-
 public class ChangeCalculator {
 
 	public static void main(String[] args) {
