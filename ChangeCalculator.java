@@ -1,5 +1,3 @@
-package mihajlovic.jelena;
-
 import javax.swing.JOptionPane;
 
 public class ChangeCalculator {
